@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Bash(git checkout:*)"
     ]
   }
 }
